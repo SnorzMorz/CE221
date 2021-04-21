@@ -1,0 +1,3 @@
+﻿  main.cpp
+Date.obj : error LNK2005: "public: __thiscall Date::Date(void)" (??0Date@@QAE@XZ) already defined in main.obj
+C:\Users\andri\Google Drive\Code\C++\Ex1\Debug\Ex1.exe : fatal error LNK1169: one or more multiply defined symbols found
